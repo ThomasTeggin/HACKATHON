@@ -1,1 +1,188 @@
-{\rtf1}
+/* full doc */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Puppies Play', cursive;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+.numberCenter{
+    margin-top: 0px;
+    margin-left: 5px;
+}
+
+.center{
+    width: 100%;
+}
+
+body{
+    background-image: url("./img/Fond.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: contain;
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+.duck{
+    background-image: url(./img/duck.png);
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    height: 50px;
+    width: 50px;
+}
+
+.blueBall{
+    background-image: url(./img/blue_ball.png);
+    background-size: contain;
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    background-repeat: no-repeat;
+}
+
+.redBall{
+    background-image: url(./img/red_ball.png);
+    background-size: contain;
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    background-repeat: no-repeat;
+}
+
+#christmasTree{
+    background-image: url(./img/christmasTree.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+/* balls position */
+
+#ball1{
+    top: 30vh;
+    left: 50vh;
+}
+
+#ball2{
+    top: 20vh;
+    left: 40vh;
+}
+
+#ball3{
+    top: 10vh;
+    left: 30vh;
+}
+
+#ball4{
+    top: 40vh;
+    left: 45vh;
+}
+
+#ball5{
+    top: 35vh;
+    left: 48vh;
+}
+
+#ball6{
+    top: 80vh;
+    left: 70vh;
+}
+
+#ball7{
+    top: 85vh;
+    left: 75vh;
+}
+
+#ball8{
+    top: 75vh;
+    left: 80vh;
+}
+
+#ball9{
+    top: 90vh;
+    left: 50vh;
+}
+
+#ball10{
+    top: 90vh;
+    left: 90vh;
+}
+
+#ball11{
+    top: 90vh;
+    left: 90vh;
+}
+
+#ball12{
+    top: 90vh;
+    left: 90vh;
+}
+
+#ball13{
+    top: 90vh;
+    left: 90vh;
+}
+
+#ball14{
+    top: 90vh;
+    left: 90vh;
+}
+
+#ball15{
+    top: 90vh;
+    left: 90vh;
+}
+
+#ball16{
+    top: 90vh;
+    left: 90vh;
+}
+
+#ball17{
+    top: 90vh;
+    left: 90vh;
+}
+
+#ball18{
+    top: 90vh;
+    left: 90vh;
+}
+
+#ball19{
+    top: 90vh;
+    left: 90vh;
+}
+
+#ball20{
+    top: 90vh;
+    left: 90vh;
+}
+
+#ball21{
+    top: 90vh;
+    left: 90vh;
+}
+
+#ball22{
+    top: 90vh;
+    left: 90vh;
+}
+
+#ball23{
+    top: 90vh;
+    left: 90vh;
+}
+
+#ball24{
+    top: 5vh;
+    left: 117vh;
+    position: absolute;
+    height: 50px;
+    width: 50px;
+}
